@@ -49,6 +49,6 @@
   color: #fff;
   text-decoration: none;
 }
-#sidebar-container {
+#sidebar ul li a:hover {
   background-color: #000;
 }
